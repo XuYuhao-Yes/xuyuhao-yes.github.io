@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>CSP-J大纲</title>
+    <link href="/2022/08/26/CSP-J/"/>
+    <url>/2022/08/26/CSP-J/</url>
+    
+    <content type="html"><![CDATA[<h1 id="CSP-J大纲"><a href="#CSP-J大纲" class="headerlink" title="CSP-J大纲"></a>CSP-J大纲</h1><h2 id="CSP-J-S第一轮题目组成"><a href="#CSP-J-S第一轮题目组成" class="headerlink" title="CSP-J/S第一轮题目组成"></a>CSP-J/S第一轮题目组成</h2><ol><li><p>单项选择题(共15题，每题2分，共计30分)</p><p>​        CSP-J1与CSP-S1的前15道题都是单选题，侧重考查学生的计算机基础知识，并对知识面的广 度进行测试。</p></li><li><p>阅读程序(除特殊说明外，判断题1.5分，单选题3分，共计40分)</p><p>​        阅读程序题，共3大题，由18道判断题和道单选题组成。题目给出一段程序（不一定有关于程序功能的说明），考生通过阅读理解该段程序进行答题。</p></li><li><p>完善程序(单选题，每小题3分，共计30分)</p><p>​        完善程序题，共2大题，由10道单选题组成，共30分。题目给出一段关于程序功能的文字说明，然后给出一段程序代码，在代码中略去了若干个语句或语句的一部分并在这些位置给出空格，要求考生根据程序的功能说明和代码的上下文，选择对应答案。</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>编程</category>
+      
+      <category>比赛</category>
+      
+      <category>NOIP</category>
+      
+      <category>CSP-J</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>CSP-J</tag>
+      
+      <tag>NOIP</tag>
+      
+      <tag>C++</tag>
+      
+      <tag>比赛</tag>
+      
+      <tag>编程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
